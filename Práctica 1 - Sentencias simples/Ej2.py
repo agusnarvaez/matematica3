@@ -15,6 +15,7 @@
 """
 #Definición de función main
 def main():
+    print("Ejercicio 2 - Sentencias simples")
     # a) 1/2/4
     expresion = 1/2/4
     
@@ -66,7 +67,7 @@ def main():
     print(f"l) 3 / 2 + 1 = {expresion}")
 
     print("Conclusiones: Cuando ingreso un dato flotante, el resultado de las operaciones que se realicen con el mismo serán de este tipo")
-    
+
 
 if __name__ == "__main__":
     main()
