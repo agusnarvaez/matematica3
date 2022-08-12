@@ -6,6 +6,7 @@
 
 #Definición de función main
 def main():
+    print("Ejercicio 1 - Sentencias simples")
     # Input 
     tuNombre = input("Ingresá tu nombre: ")
     # Output con variable usando f
