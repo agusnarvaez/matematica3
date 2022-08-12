@@ -35,7 +35,7 @@ def main():
     print(f"El doble producto del primero menos la mitad del segundo es: {resultado}")
 
     print()
-    print("Fin de programa")
+    print("Fin de programa!")
 
 if __name__ == "__main__":
     main()
