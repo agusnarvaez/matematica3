@@ -2,6 +2,6 @@
 
 ## Repositorio para guardar ejercicios y TP's de la materia Matemática 3 en la cual se trabajará con Phyton :snake:
 
-### El período de cursadda transcurre durante el segundo semestre del 2022 	:date:
+### El período de cursada transcurre durante el segundo semestre del 2022 	:date:
 
- Veremos que onda como se desarrolla esta materia...
+ Vamos a ver que onda Python...
