@@ -13,7 +13,7 @@ import math
 def main():
     
 
-    print("Ejercicio 7 - Sentencias simples")
+    print("Ejercicio 9 - Sentencias simples")
     print()
     
     # Leer valores
