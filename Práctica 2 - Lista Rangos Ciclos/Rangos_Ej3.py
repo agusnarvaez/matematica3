@@ -5,7 +5,7 @@
 
 #Definición de función main
 def main():
-    print("Ejercicio 1 - Listas Rangos Ciclos")
+    print("Ejercicio 3 - Listas Rangos Ciclos")
     print()
 
     finRango = int(input("Introduzca un número: "))

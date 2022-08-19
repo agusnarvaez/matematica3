@@ -4,7 +4,7 @@
 
 #Definición de función main
 def main():
-    print("Ejercicio 1 - Listas Rangos Ciclos")
+    print("Ejercicio 2 - Listas Rangos Ciclos")
     print()
 
     # Range crea un rango, range(inicio, fin, paso)
