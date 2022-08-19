@@ -28,7 +28,13 @@ def main():
     # Con list(rango) lo pasamos a formato lista
     lista=list(rango)
 
+    # Otra forma mas corta
+    listaOtraForma = [x for x in range(inicioRango,finRango,2) if x%2==0] 
+    
+    print()
     print(lista)
+    print()
+    print(listaOtraForma)
 
     print()
     print("Fin de programa")
