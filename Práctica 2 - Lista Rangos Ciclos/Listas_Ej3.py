@@ -1,6 +1,6 @@
 """
-   2.   Escribe un programa que permita crear una lista de palabras y que, a continuación, pida una palabra y diga
-        cuántas veces aparece esa palabra en la lista. 
+   3.   Escribe un programa que permita crear una lista de palabras y que, a continuación, pida dos palabras y
+        sustituya la primera  (que debe estar en la lista) por la segunda. Emitir la lista. 
 """
 
 #Definición de función main
@@ -24,13 +24,20 @@ def main():
 
     print(listaPalabras)
 
-    palabraABuscar = input("Ingrese una palabara: ")
+    palabraAIngresar = input("Ingrese una palabara: ")
 
-    cantidadDeVecesQueAparece = listaPalabras.count(palabraABuscar)
+    palabraReemplazada = input("Ingrese una palabara: ")
+    
+    """ 
+    for i in range(0, cantidadDePalabras):
+        if palabraABuscar in listaPalabras[i]:
+            cantidad+=1 
+    """
+
+    print(listaPalabras)
 
     print()
 
-    print(f"Su palabra aparece en la lista {cantidadDeVecesQueAparece} veces")
 
     print("Fin de programa")
     
