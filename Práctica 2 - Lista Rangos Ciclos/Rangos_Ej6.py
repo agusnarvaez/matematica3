@@ -8,7 +8,7 @@ from re import finditer
 
 
 def main():
-    print("Ejercicio 5 - Listas Rangos Ciclos")
+    print("Ejercicio 6 - Listas Rangos Ciclos")
     print()
 
     inicioRango = int(input("Introduzca un número: "))
