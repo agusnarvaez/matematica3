@@ -1,6 +1,6 @@
 """
     6.   Escribe un programa que pida dos números enteros y emita la lista de números pares que hay
-    entre ellos (incluidos ellos mismos si son pares) 
+    entre ellos (incluidos ellos mismos si son pares)
 """
 
 #Definición de función main
