@@ -8,7 +8,7 @@ from re import finditer
 
 def main():
 
-    print("Ejercicio 2 - Listas")
+    print("Ejercicio 3 - Listas")
 
     print()
 
@@ -28,16 +28,15 @@ def main():
 
     palabraReemplazada = input("Ingrese una palabara: ")
     
-    """ 
-    for i in range(0, cantidadDePalabras):
-        if palabraABuscar in listaPalabras[i]:
-            cantidad+=1 
-    """
+    indice = listaPalabras.index(palabraReemplazada)
+
+    listaPalabras.pop(indice)
+
+    listaPalabras.insert(indice,palabraAIngresar)
 
     print(listaPalabras)
 
     print()
-
 
     print("Fin de programa")
     
